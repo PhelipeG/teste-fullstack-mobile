@@ -1,0 +1,10 @@
+dist/
+node_modules/
+coverage/
+generated/
+prisma/migrations/
+*.config.js
+*.config.mjs
+.env
+.env.*
+package-lock.json

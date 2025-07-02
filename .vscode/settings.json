@@ -1,0 +1,29 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "typescript.suggest.autoImports": true,
+  "files.associations": {
+    "*.ts": "typescript",
+    "*.js": "javascript"
+  },
+  "eslint.workingDirectories": [
+    {
+      "directory": "./backend",
+      "changeProcessCWD": true
+    },
+    {
+      "directory": "./mobile-app",
+      "changeProcessCWD": true
+    }
+  ]
+}
