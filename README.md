@@ -98,7 +98,9 @@ npm start
 2. **Acesse o app via túnel:**
 
    ```
-   🔗 Link Direto: exp://sl-gq-shakah-8081.exp.direct
+   🔗 Link Direto: exp://sl-gq-shakah-8081.exp.direct (gerado via expo tunnel)
+   🔗 Link via EAS : https://expo.dev/preview/update?message=Initial%20release&updateRuntimeVersion=1.0.0&createdAt=2025-07-02T20%3A45%3A50.316Z&slug=exp&projectId=15b59086-cd8f-4d8f-a750-342882f5d03c&group=4650a520-4f3f-4add-80a6-712b6514c21e (Nao Recomendado/Requer mais configuraçao)
+
    ```
 
    **Ou escaneie o QR code gerado pelo comando:**
